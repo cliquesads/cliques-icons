@@ -1,0 +1,19 @@
+{
+  "name": "Cliques Icons",
+  "version": "0.0.1",
+  "authors": [
+    "Ben Liang"
+  ],
+  "description": "Custom icon set for Cliques Labs Inc.",
+  "main": "styles.css",
+  "keywords": [
+    "css",
+    "icons",
+    "cliques"
+  ],
+  "homepage": "http://cliquesads.com",
+  "private": true,
+  "ignore": [],
+  "dependencies": {},
+  "resolutions": {}
+}
