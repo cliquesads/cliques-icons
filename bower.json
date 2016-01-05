@@ -11,7 +11,7 @@
     "icons"
   ],
   "homepage": "http://cliquesads.com",
-  "private": true,
+  "private": false,
   "ignore": [],
   "dependencies": {},
   "resolutions": {}
