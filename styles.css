@@ -38,6 +38,21 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.cliquesicons-black-q-logo:before {
+.cliquesicons-snowsports:before {
   content: "\61";
+}
+.cliquesicons-outdoor:before {
+  content: "\62";
+}
+.cliquesicons-nordic-skiing:before {
+  content: "\63";
+}
+.cliquesicons-alpine-skiing:before {
+  content: "\64";
+}
+.cliquesicons-cycling:before {
+  content: "\65";
+}
+.cliquesicons-cliques-avatar:before {
+  content: "\66";
 }
