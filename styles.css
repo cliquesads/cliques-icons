@@ -44,10 +44,10 @@
 .cliquesicons-outdoor:before {
   content: "\62";
 }
-.cliquesicons-nordic-skiing:before {
+.cliquesicons-treething:before {
   content: "\63";
 }
-.cliquesicons-alpine-skiing:before {
+.cliquesicons-otherskithing:before {
   content: "\64";
 }
 .cliquesicons-cycling:before {
@@ -55,4 +55,22 @@
 }
 .cliquesicons-cliques-avatar:before {
   content: "\66";
+}
+.cliquesicons-action-beacon:before {
+  content: "\68";
+}
+.cliquesicons-running:before {
+  content: "\67";
+}
+.cliquesicons-alpine-skiing:before {
+  content: "\6a";
+}
+.cliquesicons-nordic-skiing:before {
+  content: "\69";
+}
+.cliquesicons-mountain-bike:before {
+  content: "\6b";
+}
+.cliquesicons-road-bike:before {
+  content: "\6c";
 }
